@@ -1,0 +1,5 @@
+##############################
+#### PROJECT REQUIREMENTS ####
+##############################
+RPi.GPIO
+subprocess.run
