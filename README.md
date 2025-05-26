@@ -1,6 +1,6 @@
 # NPi-Cluster
 
-A lightweight, dynamic web server cluster that simulates the behavior of a Raspberry Pi-based energy-efficient system using Docker containers.
+A lightweight, dynamic web server cluster that simulates the behavior of a Raspberry Pi-based energy-efficient system using multiple Raspberry Pi and Docker containers.
 
 ---
 
